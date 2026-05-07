@@ -1,2 +1,2 @@
 # ZIP-BOMB
-Its a ZIP BOMB for Mac and Windows it expands from 50MB to 4PB (4000TB)
+Its a ZIP BOMB for Mac and Windows it expands from 10MB to 268TB (268000GB)
